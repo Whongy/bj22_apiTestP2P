@@ -1,0 +1,9 @@
+2022-04-17 19:19:22,240 INFO [root] [__init__.py(<module>:7]- info
+2022-04-17 19:19:22,242 INFO [root] [__init__.py(<module>:8]- error
+2022-04-17 19:19:22,242 INFO [root] [__init__.py(<module>:9]- debug
+2022-04-17 19:21:18,844 INFO [root] [__init__.py(<module>:7]- info
+2022-04-17 19:21:18,845 INFO [root] [__init__.py(<module>:8]- error
+2022-04-17 19:21:18,845 INFO [root] [__init__.py(<module>:9]- debug
+2022-04-17 19:22:33,082 INFO [root] [__init__.py(<module>:7]- info
+2022-04-17 19:22:33,082 INFO [root] [__init__.py(<module>:8]- error
+2022-04-17 19:22:33,082 INFO [root] [__init__.py(<module>:9]- debug

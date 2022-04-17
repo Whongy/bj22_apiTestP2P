@@ -1,0 +1,7 @@
+{
+  "test_register": [
+    {"desc":"输入必填项,成功","phone":"13033447711","pwd":"test123","imgVerifyCode":"8888","phoneCode":"666666", "dyServer":"on","invitePhone":"","status_code": 200,"status": 100,"description":"手机已存在!"},
+     {"desc":"输入重复手机号,失败","phone":"130334477111","pwd":"test123","imgVerifyCode":"8888","phoneCode":"666666", "dyServer":"on","invitePhone":"","status_code": 200,"status": 100,"description":"验证码错误"}
+  ]
+
+}

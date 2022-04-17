@@ -1,0 +1,11 @@
+2022-04-17 21:15:55,013 INFO [root] [__init__.py(<module>:7]- info
+2022-04-17 21:15:55,015 INFO [root] [__init__.py(<module>:8]- error
+2022-04-17 21:15:55,015 INFO [root] [__init__.py(<module>:9]- debug
+2022-04-17 21:15:55,241 INFO [root] [login_param.py(test01_get_img_code:39]- r= response=<Response [404]>
+2022-04-17 21:15:55,333 INFO [root] [login_param.py(test01_get_img_code:39]- r=howbylqe response=<Response [400]>
+2022-04-17 21:15:55,430 INFO [root] [login_param.py(test09_get_sms_code_no_img_verify:48]- get sms code response={'status': 100, 'description': '图片验证码错误'}
+2022-04-17 21:15:55,647 INFO [root] [login_param.py(test10_register:65]- get sms code response={'status': 200, 'description': '短信发送成功'}
+2022-04-17 21:15:55,740 INFO [root] [login_param.py(test10_register:70]- register response = {'status': 100, 'description': '手机已存在!'}
+2022-04-17 21:15:56,022 INFO [root] [login_param.py(test10_register:65]- get sms code response={'status': 200, 'description': '短信发送成功'}
+2022-04-17 21:15:56,122 INFO [root] [login_param.py(test10_register:70]- register response = {'status': 100, 'description': '验证码错误'}
+2022-04-17 21:15:56,306 INFO [root] [login_param.py(test11_register_success_param_all:123]- get sms code response={'status': 200, 'description': '短信发送成功'}

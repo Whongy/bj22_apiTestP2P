@@ -1,0 +1,3 @@
+2022-04-17 21:10:06,441 INFO [root] [__init__.py(<module>:7]- info
+2022-04-17 21:10:06,443 INFO [root] [__init__.py(<module>:8]- error
+2022-04-17 21:10:06,443 INFO [root] [__init__.py(<module>:9]- debug
